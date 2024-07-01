@@ -4,7 +4,7 @@
 	let today = new Date();
 	const options = { weekday: 'long', day: 'numeric', month: 'long' };
 	// @ts-ignore
-	const formattedDate = today.toLocaleDateString('en-GB', options);
+	const formattedDate = today.toLocaleDateString('en-PH', options);
 
 	// Split the date into parts
 	const [weekday, dayMonth] = formattedDate.split(', ');

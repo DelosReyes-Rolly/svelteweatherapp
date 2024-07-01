@@ -11,7 +11,7 @@
 
 <style>
 	:global(body) {
-		background-image: url('clouds.png');
+		background-image: url('bg.jpeg');
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-size: 100% 100%;
