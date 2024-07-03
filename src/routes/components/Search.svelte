@@ -15,8 +15,8 @@
 </script>
 
 <main>
-	<form on:submit={handleSearch}>
-		<Textfield label="Search for city" bind:value={city} style="width: 40%;" />
+	<form on:submit={handleSearch} name="Search">
+		<Textfield label="Search for city" bind:value={city} style="width: 40%;" name="SearchBar"/>
 		<Button touch variant="raised" type="submit">Search</Button>
 	</form>
 </main>
