@@ -1,38 +1,36 @@
-# create-svelte
+# Svelte Apps
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+[Website Link](https://delosreyes-rolly.github.io/svelteapps/)
 
-## Creating a project
+## Description
+This is a combination of two apps in one website.
 
-If you're seeing this, you've probably already done this step. Congrats!
+<br><br>
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+===========================================================================================
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+<br><br>
 
-## Developing
+<h3><b>Svelte Weather App</b></h3>
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+<h4><b>Links:</b></h4>
+&emsp; - <a href="https://delosreyes-rolly.github.io/svelteweatherapp/">Website Link</a><br>
+&emsp; - <a href="https://github.com/DelosReyes-Rolly/svelteweatherapp">Github Link</a>
 
-```bash
-npm run dev
+<h4><b>Tech Stack:</b></h4>   Svelte Kit, Svelte Material UI, OpenWeatherMap API<br>
+<h4><b>About:</b></h4>   Completed an online weather app using svelte that shows the current temperature, humidity and wind speed of certain places. It also includes the forecast for the next days.<br>
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+<br><br>
 
-## Building
+===========================================================================================
 
-To create a production version of your app:
+<br><br>
 
-```bash
-npm run build
-```
+<h3><b>Svelte To do List</b></h3>
 
-You can preview the production build with `npm run preview`.
+<b>Links:</b><br>
+&emsp; - <a href="https://delosreyes-rolly.github.io/sveltetodo/">Website Link</a><br>
+&emsp; - <a href="https://github.com/DelosReyes-Rolly/sveltetodo">Github Link</a>
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<h4><b>Tech Stack:</b></h4>   Svelte Kit, Tailwind CSS, Flow bite Svelte<br>
+<h4><b>About:</b></h4>  Constructed an online to do list that includes CRUD operations (create, read, update, and delete).<br>
